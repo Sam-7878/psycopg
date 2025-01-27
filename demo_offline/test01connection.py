@@ -1,7 +1,7 @@
 import psycopg
 
 # AgensGraph 연결 설정
-connection_string = "host=localhost port=5432 dbname=test user=sam password=dooley"
+connection_string = "host=localhost port=5432 dbname=test user=sam"
 
 # 연결 테스트
 try:
